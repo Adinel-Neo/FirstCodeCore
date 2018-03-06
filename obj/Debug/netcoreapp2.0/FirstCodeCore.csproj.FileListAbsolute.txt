@@ -1,0 +1,10 @@
+c:\ProjetosGIT\repositorio\FirstCodeCore\bin\Debug\netcoreapp2.0\FirstCodeCore.deps.json
+c:\ProjetosGIT\repositorio\FirstCodeCore\bin\Debug\netcoreapp2.0\FirstCodeCore.runtimeconfig.json
+c:\ProjetosGIT\repositorio\FirstCodeCore\bin\Debug\netcoreapp2.0\FirstCodeCore.runtimeconfig.dev.json
+c:\ProjetosGIT\repositorio\FirstCodeCore\bin\Debug\netcoreapp2.0\FirstCodeCore.dll
+c:\ProjetosGIT\repositorio\FirstCodeCore\bin\Debug\netcoreapp2.0\FirstCodeCore.pdb
+c:\ProjetosGIT\repositorio\FirstCodeCore\obj\Debug\netcoreapp2.0\FirstCodeCore.csproj.CoreCompileInputs.cache
+c:\ProjetosGIT\repositorio\FirstCodeCore\obj\Debug\netcoreapp2.0\FirstCodeCore.AssemblyInfoInputs.cache
+c:\ProjetosGIT\repositorio\FirstCodeCore\obj\Debug\netcoreapp2.0\FirstCodeCore.AssemblyInfo.cs
+c:\ProjetosGIT\repositorio\FirstCodeCore\obj\Debug\netcoreapp2.0\FirstCodeCore.dll
+c:\ProjetosGIT\repositorio\FirstCodeCore\obj\Debug\netcoreapp2.0\FirstCodeCore.pdb
